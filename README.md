@@ -11,4 +11,4 @@ An WW_SYSTEM plugin for SCP:SL, that allows you to enable door-breaking mode for
 | --- | --- |
 | bd | Shows usage of command |
 | bd help | Shows usage of command |
-| bd <RA player id> | Enables/Disables breaking doors mode for player |
+| bd [RA player id] | Enables/Disables breaking doors mode for player |
